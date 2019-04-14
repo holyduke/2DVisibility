@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  2DVisibility.cpp
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\2dvisibility.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  2DVisibility.vcxproj -> C:\Users\jasek\source\repos\2DVisibility\Debug\2DVisibility.exe

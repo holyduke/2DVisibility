@@ -1,0 +1,54 @@
+﻿  2DVisibility.cpp
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\2dvisibility.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\2dvisibility.cpp(71): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\2dvisibility.cpp(72): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Polygon.cpp
+  Ray.cpp
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(33): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(38): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(43): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(44): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\ray.cpp(71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Utility.cpp
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\utility.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\utility.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\utility.cpp(86): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jasek\source\repos\2dvisibility\2dvisibility\utility.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  3 of 432 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2DVisibility.vcxproj -> C:\Users\jasek\source\repos\2DVisibility\Release\2DVisibility.exe
